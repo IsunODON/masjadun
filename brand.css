@@ -1,0 +1,156 @@
+.links  {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+/* YouTube */
+
+.links-youtube {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid rgb(126, 3, 3);
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    border: double 5px;
+}
+
+.links-youtube:hover {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ED213A;
+    background-color: -webkit-linear-gradient(to right, #93291e, #ed213a);
+    background-color: linear-gradient(to right, #93291e, #ED213A);
+
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    color: white;
+}
+
+/* YouTube */
+
+/* Instagram */
+
+.links-instagram {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid #833ab4;
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    border: double 5px;
+}
+
+.links-instagram:hover {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #833ab4;
+    background: -webkit-linear-gradient(to top, #fcb045, #fd1d1d, #833ab4);
+    background: linear-gradient(to top, #fcb045, #fd1d1d, #833ab4);
+
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    color: white;
+}
+
+/* Instagram */
+
+/* telegram */
+
+.links-telegram {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid #0689b9;
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    border: double 5px;
+}
+
+.links-telegram:hover {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #0689b9;
+    background: -webkit-linear-gradient(to top,#0689b9,#0689b9, #0689b9);
+    background: linear-gradient(to top, #fff, #0689b9, #0689b9);
+
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    color: white;
+}
+
+/* telegram */
+
+/* tiktok */
+
+.links-tiktok {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid black;
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    border: double 5px;
+}
+
+.links-tiktok:hover {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #833ab4;
+    background: linear-gradient(to top, #010101, #ffffff, #0689b9, #ee1d52);
+
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    color: white;
+}
+
+/* tiktok */
